@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wezon20255",
+    "sha256_cert_fingerprints": [
+      "2E:46:71:A5:85:A3:F0:9F:CD:17:05:C8:74:AB:DE:6B:97:AD:B0:DE:C5:2D:34:7C:9F:21:F6:96:15:11:2D:7C"
+    ]
+  }
+}]
